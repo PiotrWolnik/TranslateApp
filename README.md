@@ -1,1 +1,1 @@
-***Translate App
+*Translate App*
