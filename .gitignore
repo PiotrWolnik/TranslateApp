@@ -1,0 +1,9 @@
+__pycache__/*
+.buildozer/*
+.pytest_cache/*
+bin/*
+src/__pycache__/*
+test/__pycache__/*
+test/.pytest_cache/*
+pyproject.toml
+*.spec
